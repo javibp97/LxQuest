@@ -7,8 +7,11 @@ Asistente inteligente y gestión de distribuciones Linux para Android.
 LxQuest permite al usuario navegar a través del catálogo de distribuciones que su equipo requiera:
 
 -- Test de hardware: Introduce mediante el teclado numérico/menú desplegable los datos de tu equipo (RAM, Arquitectura CPU, Espacio en disco) para recibir recomendaciones personalizadas.
+
 -- Ficha técnica: Visualización de los detalles de cada distribución elegida (Base del sistema, Acceso a detalles específicos de cada distro (Base, Entorno de escritorio, RAM mínima, uso recomendado, ciclo de actualización, espacio mínimo en disco y gestor de paquetes).
+
 -- Favoritos: Dentro de la ficha de detalles, indica sus distribuciones favoritas para consultarlas desde el menú principal.
+
 -- Notas: Añadir notas a cada distribución para facilitar la guía de instalación.
 
 2. Manual de instalación:
